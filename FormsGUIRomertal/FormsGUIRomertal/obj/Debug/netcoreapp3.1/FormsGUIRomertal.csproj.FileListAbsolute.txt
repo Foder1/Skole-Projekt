@@ -1,0 +1,15 @@
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.exe
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.deps.json
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.runtimeconfig.json
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.runtimeconfig.dev.json
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.dll
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\bin\Debug\netcoreapp3.1\FormsGUIRomertal.pdb
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.csprojAssemblyReference.cache
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.Form1.resources
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.csproj.GenerateResource.cache
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.AssemblyInfoInputs.cache
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.AssemblyInfo.cs
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.csproj.CoreCompileInputs.cache
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.dll
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.pdb
+C:\Users\pernn\source\repos\FormsGUIRomertal\FormsGUIRomertal\obj\Debug\netcoreapp3.1\FormsGUIRomertal.genruntimeconfig.cache
