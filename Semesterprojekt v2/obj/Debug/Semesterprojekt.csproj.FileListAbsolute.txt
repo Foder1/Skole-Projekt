@@ -1,0 +1,10 @@
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\bin\Debug\Semesterprojekt.exe.config
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\bin\Debug\Semesterprojekt.exe
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\bin\Debug\Semesterprojekt.pdb
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.csprojAssemblyReference.cache
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.Form1.resources
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.Properties.Resources.resources
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.csproj.GenerateResource.cache
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.exe
+C:\Users\rasmu\OneDrive\Datamatiker\1. semesterprojekt\Semesterprojekt\obj\Debug\Semesterprojekt.pdb
