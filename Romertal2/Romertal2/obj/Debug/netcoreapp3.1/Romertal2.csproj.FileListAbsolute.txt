@@ -1,4 +1,0 @@
-C:\Users\pernn\source\repos\Romertal2\Romertal2\obj\Debug\netcoreapp3.1\Romertal2.csprojAssemblyReference.cache
-C:\Users\pernn\source\repos\Romertal2\Romertal2\obj\Debug\netcoreapp3.1\Romertal2.AssemblyInfoInputs.cache
-C:\Users\pernn\source\repos\Romertal2\Romertal2\obj\Debug\netcoreapp3.1\Romertal2.AssemblyInfo.cs
-C:\Users\pernn\source\repos\Romertal2\Romertal2\obj\Debug\netcoreapp3.1\Romertal2.csproj.CoreCompileInputs.cache
