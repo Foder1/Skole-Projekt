@@ -1,0 +1,10 @@
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\bin\Debug\WindowsFormsTALtilROMERTAL.exe.config
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\bin\Debug\WindowsFormsTALtilROMERTAL.exe
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\bin\Debug\WindowsFormsTALtilROMERTAL.pdb
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.csprojAssemblyReference.cache
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.Form1.resources
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.Properties.Resources.resources
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.csproj.GenerateResource.cache
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.csproj.CoreCompileInputs.cache
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.exe
+C:\Users\pernn\source\repos\WindowsFormsTALtilROMERTAL\WindowsFormsTALtilROMERTAL\obj\Debug\WindowsFormsTALtilROMERTAL.pdb
