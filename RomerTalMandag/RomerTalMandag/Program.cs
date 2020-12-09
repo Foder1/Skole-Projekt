@@ -10,16 +10,17 @@ namespace ConsoleApp
            
             Console.WriteLine("-----------------");
             string number = string.Empty;
-            Console.Write("Enter a number between 1 and 1000000 :");
+            Console.Write("Skriv årstal for husbyggeri: ");
             number = Console.ReadLine();
             if (IsValid(number))
             {
                 string roman = ConvertToRoman(number);
-                Console.WriteLine("Roman Number is " + roman);
+                Console.WriteLine("Som romertal: " + roman);
+
             }
             else
             {
-                Console.WriteLine("Invalid Number");
+                Console.WriteLine("Skriv et rigtigt byggeår for at få det som klassisk romertal");
             }
             Console.ReadKey();
         }
@@ -45,7 +46,7 @@ namespace ConsoleApp
             string romanString = string.Empty;
             romanString = RomanDictionary()[n].ToString();
             return romanString;
-        }
+        }                 
         private static Dictionary<int, string> RomanDictionary()
         {
             Dictionary<int, string> romanDic = new Dictionary<int, string>();
@@ -70,7 +71,7 @@ namespace ConsoleApp
             bool isValid = false;
             if (int.TryParse(input, out value))
             {
-                if (value <= 1000000)
+                if (value <= 3999)       // max 3 romertegn ved siden af hinanden
                 {
                     isValid = true;
                 }
